@@ -16,3 +16,6 @@ C:\Users\INF2A-user\Desktop\winform\winform\obj\Debug\winform.csprojResolveAssem
 C:\Users\INF2A-user\Desktop\winform\winform\obj\Debug\winform.Form1.resources
 C:\Users\INF2A-user\Desktop\winform\winform\obj\Debug\winform.Properties.Resources.resources
 C:\Users\INF2A-user\Desktop\winform\winform\obj\Debug\winform.csproj.GenerateResource.Cache
+C:\Users\INF2A-user\Desktop\404208\winform\bin\Debug\winform.exe.config
+C:\Users\INF2A-user\Desktop\404208\winform\obj\Debug\winform.exe
+C:\Users\INF2A-user\Desktop\404208\winform\obj\Debug\winform.pdb

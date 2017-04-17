@@ -30,5 +30,15 @@ namespace winform
         {
             label2.Text = textBox1.Text; 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            label3.Text = "404208";
+        }
     }
 }
